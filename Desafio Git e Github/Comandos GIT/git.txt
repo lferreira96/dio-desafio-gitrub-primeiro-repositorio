@@ -103,3 +103,5 @@ u usuario - desenvolvedor escolhe agora qual o nome da branch
 Merge - Juntar as bifurcações.
 
 A tag HEAD aponta sempre para o último commit de uma branch  
+
+Adicionei esta linha para fazer um branch e um merge
